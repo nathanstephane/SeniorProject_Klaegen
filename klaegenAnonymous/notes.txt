@@ -1,0 +1,6 @@
+1. Thread
+2.Reply
+3.Users(Anoymous) 
+
+A user creates a Thread.
+A reply belongs to a thread and a user. 
